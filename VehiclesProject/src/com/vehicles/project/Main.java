@@ -149,7 +149,6 @@ public class Main {
 			moto1.addFrontWheel(davant);
 			moto1.addRearWheel(trasera);
 		}
-		System.out.println(cotxe1.toString());
 
 	}
 }
