@@ -46,6 +46,6 @@ public class Main {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		System.out.println(cotxe1.wheels);
+		System.out.println(cotxe1.toString());
 	}
 }
